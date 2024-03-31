@@ -1,0 +1,11 @@
+- step:
+   type: GitClone
+   name: GitClone_1
+   identifier: GitClone_1
+   spec:
+     connectorRef: account.github-1
+     repoName: myrepo
+     build:
+       type: branch
+       spec:
+         branch: main
