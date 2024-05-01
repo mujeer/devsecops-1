@@ -1,0 +1,7 @@
+environment:
+  name: UAT
+  identifier: UAT
+  accountId: NmPnM7NISPC3AXtTIycueA
+  orgIdentifier: default
+  projectIdentifier: default_project
+  type: PreProduction
